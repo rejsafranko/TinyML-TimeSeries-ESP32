@@ -1,3 +1,5 @@
+# CodX Machine Learning Workshop
+
 <div>
     <img src="logo.png" alt="CodX" height="100px" width="100px">
 </div>
