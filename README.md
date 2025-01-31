@@ -1,3 +1,7 @@
+<div>
+    <img src="logo.png" alt="CodX">
+</div>
+
 This workshop focuses on the practical aspects of time series analysis, modeling, and deploying machine learning models to embedded devices for TinyML applications. We showcase:
 
     Time Series Analysis: Understanding the structure and patterns of time series data, including concepts like stationarity, autocorrelation, and multicollinearity.
