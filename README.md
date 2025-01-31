@@ -1,5 +1,5 @@
 <div>
-    <img src="logo.png" alt="CodX">
+    <img src="logo.png" alt="CodX" height="100px" width="100px">
 </div>
 
 This workshop focuses on the practical aspects of time series analysis, modeling, and deploying machine learning models to embedded devices for TinyML applications. We showcase:
